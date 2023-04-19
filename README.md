@@ -1,3 +1,3 @@
 # git-class
 
-* Learning git at hhts://rocketseat.com.br
+* Learning git at https://rocketseat.com.br
